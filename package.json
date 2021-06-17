@@ -1,0 +1,25 @@
+{
+  "name": "cypress-typescript-browserstack",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bennymeade/cypress-typescript-browserstack.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/bennymeade/cypress-typescript-browserstack/issues"
+  },
+  "homepage": "https://github.com/bennymeade/cypress-typescript-browserstack#readme",
+  "devDependencies": {
+    "browserstack-cypress-cli": "^1.8.1",
+    "cypress": "^7.5.0",
+    "typescript": "^4.3.3"
+  }
+}
