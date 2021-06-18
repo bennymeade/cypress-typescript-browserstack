@@ -7,6 +7,7 @@
         }
     ],
     "run_settings": {
+        "cypress_version": "6",
         "cypress_config_file": "./cypress.json",
         "project_name": "CY TS BS",
         "build_name": "Connect TS to BS",
